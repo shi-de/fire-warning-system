@@ -1,0 +1,12 @@
+﻿*.env
+*.key
+*.pem
+*.user
+*.bak
+*.log
+Objects/
+Listings/
+build/
+Debug/
+Release/
+
